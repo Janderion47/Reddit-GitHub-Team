@@ -2,13 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="39479912-06c5-4db5-9634-1d233ae84aa1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/emacs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Encryption/SuperQuadraticEncryption/Decoder.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Encryption/SuperQuadraticEncryption/Encoder.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Encryption/SuperQuadraticEncryption/README_SQE.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Reddit-GitHub-Team.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Reddit-GitHub-Team.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Encryption/SuperQuadraticEncryption/README_SQE.md" beforeDir="false" afterPath="$PROJECT_DIR$/Encryption/SuperQuadraticEncryption/README_SQE.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -120,7 +115,14 @@
       <option name="project" value="LOCAL" />
       <updated>1565822270216</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Added my own encryption code">
+      <created>1565823418049</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1565823418049</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -136,7 +138,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="small edits" />
-    <option name="LAST_COMMIT_MESSAGE" value="small edits" />
+    <MESSAGE value="Added my own encryption code" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added my own encryption code" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
